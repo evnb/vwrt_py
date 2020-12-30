@@ -1,2 +1,2 @@
-Time to take Silicone out of Silicon Valley
--------------------------------------------
+Video Waste Reduction Tool in Python
+------------------------------------
