@@ -1,2 +1,5 @@
 Video Waste Reduction Tool in Python
 ------------------------------------
+Intro
+~~~~~
+This is a complete python rewrite of https://github.com/evnb/vwrt[the C++ vwrt^].
